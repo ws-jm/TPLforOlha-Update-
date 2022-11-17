@@ -1,0 +1,103 @@
+﻿@{
+    var controller = this.ViewContext.RouteData.Values["controller"].ToString();
+}
+
+
+<section class="section">
+    <div class="lead_gen reveal-from-bottom" id="show_div" data-reveal-delay="100">
+        <div class="lead_item">
+            <div class="lead_gen_title">
+                Training time spent on documentation 30%.
+                Reduce training documentation time to
+            </div>
+            <div class="lead_gen_number" id="number1">0%</div>
+        </div>
+        <div class="lead_item">
+            <div class="whyus_items">
+                Competency time spent on documentation 75%.
+                Reduce competency documentation time to
+            </div>
+            <div class="lead_gen_number" id="number2">0%</div>
+        </div>
+    </div>
+    <div class="tiles-wrap list_group" id="whyus">
+        <div class="tiles-item reveal-from-bottom is-revealed" data-reveal-delay="200">
+            <div class="list_item_head">Save time and money</div>
+            <div class="list_items"><div class="list_dot"></div>Reduce time spent on documenting compliance by at least 50%</div>
+            <div class="list_items"><div class="list_dot"></div>Standardize all training and competency processes to reduce risk</div>
+            <div class="list_items"><div class="list_dot"></div>Teams enter training and competency data as it is being performed throughout the year</div>
+            <div class="list_items"><div class="list_dot"></div>Eliminate searching for evidence of compliance</div>
+            <div class="list_items"><div class="list_dot"></div>Eliminate transcription errors and data inconsistencies by executing compliance in one primary workspace</div>
+            <div class="list_items"><div class="list_dot"></div>View the real-time status of all training and competencies</div>
+            <div class="list_items"><div class="list_dot"></div>A transparent workspace allows employees to view and anticipate what’s next</div>
+            <div class="list_items"><div class="list_dot"></div>Leadership reviews inspection-ready sessions directly in the workspace.</div>
+        </div>
+        <div class="tiles-item reveal-from-bottom is-revealed" data-reveal-delay="200">
+            <div class="list_item_head">Digital Management</div>
+            <div class="list_items"><div class="list_dot"></div>Assign training and competency to team members using role-based access</div>
+            <div class="list_items"><div class="list_dot"></div>Select CLIA-aligned evaluation methods to easily satisfy all elements</div>
+            <div class="list_items"><div class="list_dot"></div>Automate the 6-month, 1-year competency reminders for each team member</div>
+            <div class="list_items"><div class="list_dot"></div>Executed e-signatures meet 21 CFR Part 11 requirements</div>
+            <div class="list_items"><div class="list_dot"></div>Know when new hires are competent to work independently, task by task</div>
+            <div class="list_items"><div class="list_dot"></div>Understand training and competency pain points</div>
+            <div class="list_items"><div class="list_dot"></div>Understand onboarding timeliness per process and trainer</div>
+            <div class="list_items"><div class="list_dot"></div>Eliminate paper and increase physical storage in your laboratory</div>
+            <div class="list_items"><div class="list_dot"></div>Sign-off on training and competency anytime, anywhere</div>
+            <div class="list_items"><div class="list_dot"></div>Quickly retrieve training and competency documentation during inspections</div>
+        </div>
+        <div class="tiles-item reveal-from-bottom is-revealed" data-reveal-delay="200">
+            <div>
+                <div class="list_item_head">Compliance</div>
+                <div class="list_items"><div class="list_dot"></div>Meets compliance requirements for</div>
+                <div class="list_change">
+                    <div class="list_items"><div class="list_round"></div>CLIA: Clinical Laboratory Improvement Act</div>
+                    <div class="list_items"><div class="list_round"></div>CAP: College of American Pathology</div>
+                    <div class="list_items"><div class="list_round"></div>JC: Joint Commission</div>
+                    <div class="list_items"><div class="list_round"></div>COLA: Commission of Office Laboratory Accreditation</div>
+                    <div class="list_items"><div class="list_round"></div>FDA: Federal Drug Administration</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script>
+    const counterAnim = (qSelector, start, end, duration) => {
+        const target = document.querySelector(qSelector);
+        let startTimestamp = null;
+        const step = (timestamp) => {
+            if (!startTimestamp) startTimestamp = timestamp;
+            const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+            target.innerText = Math.floor(progress * (end - start) + start) + "%";
+            if (progress < 1) {
+                window.requestAnimationFrame(step);
+            }
+        };
+        window.requestAnimationFrame(step);
+    };
+
+    let sign = true;
+
+    if(sign == true){
+        window.addEventListener('scroll', function () {
+            var element = document.querySelector('#show_div');
+            var position = element.getBoundingClientRect();
+
+            // checking whether fully visible
+            if (position.top >= 0 && position.bottom <= window.innerHeight) {
+                counterAnim("#number1", 30, 15, 3000);
+                counterAnim("#number2", 75, 38, 3000);
+            }
+
+            // checking for partial visibility
+            if (position.top < window.innerHeight && position.bottom >= 0) {
+                console.log('Element is partially visible in screen');
+            }
+        });
+        sign = false;
+    }
+</script>
