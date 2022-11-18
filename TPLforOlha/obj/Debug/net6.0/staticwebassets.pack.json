@@ -1,0 +1,677 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\images\\landing\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\landing\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\_normalize.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\abstracts\\_functions.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\abstracts\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\abstracts\\_include-media.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\abstracts\\_include-media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\base\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\base\\_fonts.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\base\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\base\\_helpers.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\base\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\base\\_scroll-reveal.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\base\\_scroll-reveal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_accordion.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_buttons.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_carousel.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_containers.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_forms.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_hamburger.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_hamburger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_modal.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_tabs.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\elements\\_timeline.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\elements\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\layout\\_main.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\layout\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\patterns\\_split.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\patterns\\_split.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\patterns\\_tiles.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\patterns\\_tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_clients.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_clients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_cta.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_cta.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_features-split.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_features-split.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_features-tabs.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_features-tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_features-tiles.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_features-tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_news.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_pricing.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_roadmap.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_roadmap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_section.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_team.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\core\\sections\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\core\\sections\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\_settings.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\base\\_colors.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\base\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\base\\_links.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\base\\_links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\base\\_misc.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\base\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\base\\_scroll-reveal.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\base\\_scroll-reveal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\base\\_widths-and-spacing.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\base\\_widths-and-spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\elements\\_accordion.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\elements\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\elements\\_buttons-and-forms.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\elements\\_buttons-and-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\elements\\_carousel.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\elements\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\elements\\_modal.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\elements\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\elements\\_tabs.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\elements\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\elements\\_timeline.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\elements\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\patterns\\_split.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\patterns\\_split.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\patterns\\_tiles.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\patterns\\_tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_clients.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_clients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_cta.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_cta.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_features-split.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_features-split.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_features-tabs.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_features-tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_features-tiles.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_features-tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_news.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_pricing.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_roadmap.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_roadmap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_team.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\settings\\sections\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\settings\\sections\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\style.css",
+      "PackagePath": "staticwebassets\\landing\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\landing\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\style.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\style1.css",
+      "PackagePath": "staticwebassets\\landing\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\base\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\base\\_fonts.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\base\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\base\\_scroll-reveal.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\base\\_scroll-reveal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_accordion.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_buttons.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_carousel.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_containers.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_forms.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_hamburger.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_hamburger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_modal.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_tabs.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\elements\\_timeline.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\elements\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\illustrations\\_illustrations.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\illustrations\\_illustrations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\layout\\_main.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\layout\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\patterns\\_split.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\patterns\\_split.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\patterns\\_tiles.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\patterns\\_tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_clients.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_clients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_cta.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_cta.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_features-split.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_features-split.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_features-tabs.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_features-tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_features-tiles.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_features-tiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_news.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_pricing.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_roadmap.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_roadmap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_section.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_team.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\css\\theme\\sections\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\landing\\css\\theme\\sections\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\Vector.png",
+      "PackagePath": "staticwebassets\\landing\\images\\Vector.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\arrow_right.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\arrow_right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\background.png",
+      "PackagePath": "staticwebassets\\landing\\images\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\contact_us.png",
+      "PackagePath": "staticwebassets\\landing\\images\\contact_us.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\content.png",
+      "PackagePath": "staticwebassets\\landing\\images\\content.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\dot.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\dot.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\landing\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\feature-tile-icon-01.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\feature-tile-icon-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\feature-tile-icon-02.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\feature-tile-icon-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\feature-tile-icon-03.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\feature-tile-icon-03.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\feature-tile-icon-04.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\feature-tile-icon-04.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\feature-tile-icon-05.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\feature-tile-icon-05.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\feature-tile-icon-06.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\feature-tile-icon-06.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\features-split-image.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\features-split-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\features-split-top-01.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\features-split-top-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\features-split-top-02.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\features-split-top-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\features-split-top-03.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\features-split-top-03.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\hero-image.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\hero-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\hero.png",
+      "PackagePath": "staticwebassets\\landing\\images\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\illustration-element-01.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\illustration-element-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\illustration-element-02.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\illustration-element-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\illustration-element-03.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\illustration-element-03.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\illustration-section-01.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\illustration-section-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\illustration-section-02.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\illustration-section-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\image-placeholder.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\image-placeholder.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\image_1.png",
+      "PackagePath": "staticwebassets\\landing\\images\\image_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\image_2.png",
+      "PackagePath": "staticwebassets\\landing\\images\\image_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\image_3.png",
+      "PackagePath": "staticwebassets\\landing\\images\\image_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\image_4.png",
+      "PackagePath": "staticwebassets\\landing\\images\\image_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\image_logo.png",
+      "PackagePath": "staticwebassets\\landing\\images\\image_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\images\\image_1.png",
+      "PackagePath": "staticwebassets\\landing\\images\\images\\image_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\images\\image_2.png",
+      "PackagePath": "staticwebassets\\landing\\images\\images\\image_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\images\\image_3.png",
+      "PackagePath": "staticwebassets\\landing\\images\\images\\image_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\images\\image_4.png",
+      "PackagePath": "staticwebassets\\landing\\images\\images\\image_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\intro_icon_1.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\intro_icon_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\intro_icon_2.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\intro_icon_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\intro_icon_3.svg",
+      "PackagePath": "staticwebassets\\landing\\images\\intro_icon_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\intro_logo.png",
+      "PackagePath": "staticwebassets\\landing\\images\\intro_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\item_head.png",
+      "PackagePath": "staticwebassets\\landing\\images\\item_head.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\lead_gen.png",
+      "PackagePath": "staticwebassets\\landing\\images\\lead_gen.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\list_background.png",
+      "PackagePath": "staticwebassets\\landing\\images\\list_background.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\proficient_icon_halo.png",
+      "PackagePath": "staticwebassets\\landing\\images\\proficient_icon_halo.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\round.png",
+      "PackagePath": "staticwebassets\\landing\\images\\round.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\team\\item_head1.png",
+      "PackagePath": "staticwebassets\\landing\\images\\team\\item_head1.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\team\\stas.png",
+      "PackagePath": "staticwebassets\\landing\\images\\team\\stas.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\team\\unika.png",
+      "PackagePath": "staticwebassets\\landing\\images\\team\\unika.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\images\\title_image.png",
+      "PackagePath": "staticwebassets\\landing\\images\\title_image.png"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\accordion.js",
+      "PackagePath": "staticwebassets\\landing\\js\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\landing\\js\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\custom.js",
+      "PackagePath": "staticwebassets\\landing\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\main.es5.js",
+      "PackagePath": "staticwebassets\\landing\\js\\main.es5.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\main.es5.min.js",
+      "PackagePath": "staticwebassets\\landing\\js\\main.es5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\main.js",
+      "PackagePath": "staticwebassets\\landing\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\main_old.js",
+      "PackagePath": "staticwebassets\\landing\\js\\main_old.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\mobile-menu.js",
+      "PackagePath": "staticwebassets\\landing\\js\\mobile-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\modal.js",
+      "PackagePath": "staticwebassets\\landing\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\pricing-slider.js",
+      "PackagePath": "staticwebassets\\landing\\js\\pricing-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\pricing-switcher.js",
+      "PackagePath": "staticwebassets\\landing\\js\\pricing-switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\scroll-reveal.js",
+      "PackagePath": "staticwebassets\\landing\\js\\scroll-reveal.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\landing\\js\\smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\wwwroot\\landing\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\landing\\js\\tabs.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TPLforOlha.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TPLforOlha.props",
+      "PackagePath": "build\\TPLforOlha.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TPLforOlha.props",
+      "PackagePath": "buildMultiTargeting\\TPLforOlha.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TPLforOlha.props",
+      "PackagePath": "buildTransitive\\TPLforOlha.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

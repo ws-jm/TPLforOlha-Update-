@@ -279,7 +279,7 @@ button:focus:not(:focus-visible){
 }
 button,input,optgroup,select,textarea{
     margin:0;
-    font-family:inherit;
+    font-family: "Heebo",sans-serif;
     font-size:inherit;
     line-height:inherit
 }
@@ -9927,7 +9927,7 @@ hr {
 }
 
 pre {
-    font-family: monospace,monospace;
+    font-family: "Heebo",sans-serif;
     font-size: 1em;
 }
 
@@ -9951,7 +9951,7 @@ b, strong {
 }
 
 code, kbd, samp {
-    font-family: monospace,monospace;
+    font-family: "Heebo",sans-serif;
     font-size: 1em;
 }
 
@@ -10001,7 +10001,7 @@ svg:not(:root) {
 }
 
 button, input, optgroup, select, textarea {
-    font-family: sans-serif;
+    font-family: "Heebo",sans-serif;
     font-size: 100%;
     line-height: 1.15;
     margin: 0;
@@ -10279,7 +10279,7 @@ body, button, input, select, textarea {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "PT Serif",serif;
+    font-family: "Heebo",sans-serif;
     font-weight: 700;
     clear: both;
     color: #2e2e3d;
@@ -10288,51 +10288,60 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 h1, .h1 {
+    font-family: "Heebo",sans-serif;
     font-size: 38px;
     line-height: 48px;
 }
 
 h2, .h2 {
+    font-family: "Heebo",sans-serif;
     font-size: 32px;
     line-height: 42px;
 }
 
 h3, .h3 {
+    font-family: "Heebo",sans-serif;
     font-size: 24px;
     line-height: 34px;
     letter-spacing: -.1px;
 }
 
 h4, .h4 {
+    font-family: "Heebo",sans-serif;
     font-size: 24px;
     line-height: 34px;
     letter-spacing: -.1px;
 }
 
 h5, .h5 {
+    font-family: "Heebo",sans-serif;
     font-size: 20px;
     line-height: 30px;
     letter-spacing: -.1px;
 }
 
 h6, .h6, small, .text-sm {
+    font-family: "Heebo",sans-serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -.1px;
 }
 
 .text-xs {
+    font-family: "Heebo",sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -.1px;
 }
 
 .text-xxs {
+    font-family: "Heebo",sans-serif;
     font-size: 14px;
     line-height: 22px;
 }
 
 figcaption {
+    font-family: "Heebo",sans-serif;
     font-size: 14px;
     line-height: 22px;
 }
@@ -10347,6 +10356,7 @@ a:not(.button) {
     }
 
 a.button-link {
+    font-family: "Heebo",sans-serif;
     color: #9c9ca8;
     font-weight: 500;
 }
@@ -10356,21 +10366,25 @@ a.button-link {
     }
 
 h1, .h1 {
+    font-family: "Heebo",sans-serif;
     margin-top: 48px;
     margin-bottom: 32px;
 }
 
 h2, .h2 {
+    font-family: "Heebo",sans-serif;
     margin-top: 48px;
     margin-bottom: 32px;
 }
 
 h3, .h3 {
+    font-family: "Heebo",sans-serif;
     margin-top: 36px;
     margin-bottom: 24px;
 }
 
 h4, h5, h6, .h4, .h5, .h6 {
+    font-family: "Heebo",sans-serif;
     margin-top: 24px;
     margin-bottom: 24px;
 }
@@ -10385,6 +10399,7 @@ dfn, cite, em, i {
 }
 
 blockquote {
+    font-family: "Heebo",sans-serif;
     font-size: 20px;
     line-height: 30px;
     letter-spacing: -.1px;
@@ -10414,7 +10429,7 @@ address {
 }
 
 pre, pre h1, pre h2, pre h3, pre h4, pre h5, pre h6, pre .h1, pre .h2, pre .h3, pre .h4, pre .h5, pre .h6 {
-    font-family: "Courier 10 Pitch",Courier,monospace;
+    font-family: "Heebo",sans-serif;
 }
 
 pre, code, kbd, tt, var {
@@ -10422,6 +10437,7 @@ pre, code, kbd, tt, var {
 }
 
 pre {
+    font-family: "Heebo",sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -.1px;
@@ -10433,7 +10449,7 @@ pre {
 }
 
 code, kbd, tt, var {
-    font-family: Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace;
+    font-family: "Heebo",sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -.1px;
@@ -10512,34 +10528,40 @@ b, strong {
         flex-direction: column !important;
     }
     .h1-mobile {
+        font-family: "Heebo",sans-serif;
         font-size: 38px;
         line-height: 48px;
     }
 
     .h2-mobile {
+        font-family: "Heebo",sans-serif;
         font-size: 32px;
         line-height: 42px;
     }
 
     .h3-mobile {
+        font-family: "Heebo",sans-serif;
         font-size: 24px;
         line-height: 34px;
         letter-spacing: -.1px;
     }
 
     .h4-mobile {
+        font-family: "Heebo",sans-serif;
         font-size: 24px;
         line-height: 34px;
         letter-spacing: -.1px;
     }
 
     .h5-mobile {
+        font-family: "Heebo",sans-serif;
         font-size: 20px;
         line-height: 30px;
         letter-spacing: -.1px;
     }
 
     .h6-mobile {
+        font-family: "Heebo",sans-serif;
         font-size: 18px;
         line-height: 28px;
         letter-spacing: -.1px;
@@ -10811,6 +10833,7 @@ fieldset {
     }
 
 .form-input, .form-select {
+    font-family: "Heebo",sans-serif;
     display: block;
     font-size: 16px;
     line-height: 24px;
@@ -10902,6 +10925,7 @@ textarea.form-input {
 }
 
 .form-checkbox, .form-radio, .form-switch, .form-slider {
+    font-family: "Heebo",sans-serif;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: -.1px;
@@ -11100,6 +11124,7 @@ textarea.form-input {
     }
 
 .form-hint {
+    font-family: "Heebo",sans-serif;
     font-size: 14px;
     line-height: 22px;
     margin-top: 8px;
@@ -11567,6 +11592,7 @@ textarea.form-input {
     }
 
 .tab {
+    font-family: "Heebo",sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11648,6 +11674,7 @@ textarea.form-input {
 }
 
 .timeline-item-header {
+    font-family: "Heebo",sans-serif;
     position: relative;
     font-size: 14px;
     line-height: 22px;
@@ -12128,6 +12155,7 @@ textarea.form-input {
     }
 
 .footer-block-title {
+    font-family: "Heebo",sans-serif;
     font-size: 14px;
     line-height: 22px;
     font-weight: 700;
@@ -12432,6 +12460,7 @@ ul.pricing-item-features-list li {
     }
 
     .pricing-slider .pricing-slider-value {
+        font-family: "Heebo",sans-serif;
         position: absolute;
         font-size: 14px;
         line-height: 22px;
@@ -13725,6 +13754,7 @@ html {
 }
 
 #contact .thankyou {
+    font-family: "Heebo",sans-serif;
     padding-top: 1em;
     font-size: 1.2em;
     font-weight: 300;
@@ -13755,7 +13785,8 @@ html {
 }
 
 .whyus_text_title {
-    width: 213px;
+    font-family: "Heebo",sans-serif;
+    width: 160px;
     font-weight: 700;
     font-size: 40px;
     line-height: 48px;
@@ -13765,6 +13796,7 @@ html {
 }
 
 .whyus_title {
+    font-family: "Heebo",sans-serif;
     padding-top: 24px;
     max-width: 384px;
     font-weight: 700;
@@ -13775,6 +13807,7 @@ html {
 }
 
 .whyus_content {
+    font-family: "Heebo",sans-serif;
     max-width: 472px;
     font-weight: 300;
     font-size: 18px;
@@ -13784,34 +13817,72 @@ html {
 }
 
 .intro_content {
-  padding-bottom: 15px;
-  text-align: left;
-  max-width: 606px;
-  font-weight: 300;
-  font-size: 18px;
-  line-height: 160%;
-  letter-spacing: 0.035em; 
-  color: #000000;
+    font-family: "Heebo",sans-serif;
+    padding-bottom: 15px;
+    text-align: left;
+    max-width: 606px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 160%;
+    letter-spacing: 0.035em; 
+    color: #000000;
 }
 
 .schedule {
     padding-top: 56px;
 }
 
-    .schedule a {
-        width: 258px;
-        height: 53px;
-        padding: 18px 52px;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 19px;
-        text-align: center;
-        color: #FFFFFF !important;
-        text-decoration: none !important;
-        background: linear-gradient(225deg, #1A5D94 0%, #06A59C 100%);
-        box-shadow: 2px 8px 16px rgba(23, 105, 150, 0.32);
-        border-radius: 3px;
-    }
+.schedule a {
+    font-family: "Heebo",sans-serif;
+    width: 258px;
+    height: 53px;
+    padding: 18px 52px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    background: linear-gradient(225deg, #1A5D94 0%, #06A59C 100%);
+    box-shadow: 2px 8px 16px rgba(23, 105, 150, 0.32);
+    border-radius: 3px;
+}
+
+.new_button{
+    font-family: "Heebo",sans-serif;
+    width: 258px;
+    height: 53px;
+    padding: 18px 52px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    background: linear-gradient(225deg, #1A5D94 0%, #06A59C 100%);
+    box-shadow: 2px 8px 16px rgba(23, 105, 150, 0.32);
+    border-radius: 3px;
+}
+
+.new_button:hover{
+    font-family: "Heebo",sans-serif;
+    width: 258px;
+    height: 53px;
+    padding: 18px 52px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: var(--bs-link-hover-color) !important;
+    text-decoration: none !important;
+    background: linear-gradient(225deg, #1A5D94 0%, #06A59C 100%);
+    box-shadow: 2px 8px 16px rgba(23, 105, 150, 0.32);
+    border-radius: 3px;
+}
+
+
+
+
 
 .lead_gen {
     padding-bottom: 21px;
@@ -13831,6 +13902,7 @@ html {
 }
 
 .lead_gen_title {
+    font-family: "Heebo",sans-serif;
     max-width: 468px;
     font-weight: 700;
     font-size: 20px;
@@ -13840,12 +13912,13 @@ html {
 }
 
 .lead_gen_number {
-  max-width: 215px;
-  font-weight: 600;
-  font-size: 100px;
-  line-height: 121px;
-  text-align: center;
-  color: #FFFFFF;
+    font-family: "Heebo",sans-serif;
+    max-width: 215px;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 121px;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 .list_item {
@@ -13856,12 +13929,13 @@ html {
 }
 
 .whyus_items {
-  max-width: 474px;
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 148.02%;
-  text-align: center;
-  color: #FFFFFF;
+    font-family: "Heebo",sans-serif;
+    max-width: 474px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 148.02%;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 .list_change {
@@ -13886,6 +13960,7 @@ html {
 }
 
 .list_item_head {
+    font-family: "Heebo",sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
@@ -13895,6 +13970,7 @@ html {
 }
 
 .list_items {
+    font-family: "Heebo",sans-serif;
     display: flex;
     padding-bottom: 16px;
     font-weight: 300;
@@ -13904,14 +13980,15 @@ html {
 }
 
 .whyus_listitmes {
-  padding-top: 20px;
-  display: flex;
-  max-width: 472px;
-  font-weight: 300;
-  font-size: 18px;
-  line-height: 160%;
-  letter-spacing: 0.035em;
-  color: #2E2E2E;
+    font-family: "Heebo",sans-serif;
+    padding-top: 20px;
+    display: flex;
+    max-width: 472px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 160%;
+    letter-spacing: 0.035em;
+    color: #2E2E2E;
 
 }
 
@@ -13948,12 +14025,13 @@ html {
     }
 
     .lead_gen_number {
-      max-width: 215px;
-      font-weight: 600;
-      font-size: 100px;
-      line-height: 94px;
-      text-align: center;
-      color: #FFFFFF;
+        font-family: "Heebo",sans-serif;
+        max-width: 215px;
+        font-weight: 600;
+        font-size: 100px;
+        line-height: 94px;
+        text-align: center;
+        color: #FFFFFF;
   }
 
     .lead_gen_title {
@@ -14020,6 +14098,7 @@ html {
     }
 
     .lead_gen_title {
+        font-family: "Heebo",sans-serif;
         font-size: 12px;
         max-width: 289px;
         font-weight: 700;
@@ -14029,6 +14108,7 @@ html {
     }
 
     .whyus_items{
+        font-family: "Heebo",sans-serif;
         font-size: 12px;
         max-width: 315px;
         font-weight: 700;
@@ -14077,6 +14157,7 @@ html {
     border-radius: 16px;
 }
 .title-property {
+    font-family: "Heebo",sans-serif;
     font-weight: 700;
     line-height: 68px;
     text-align: center;
@@ -14094,6 +14175,7 @@ html {
 
 
 .button-change {
+    font-family: "Heebo",sans-serif;
     background: linear-gradient(225deg, #1A5D94 0%, #06A59C 100%);
     border-radius: 3px;
     box-shadow: 0px 4px 16px rgba(6, 165, 156, 0.24);
@@ -14108,6 +14190,7 @@ html {
 }
 
 .button-change-disabled {
+    font-family: "Heebo",sans-serif;
     background: #FFFFFF;
     border-radius: 3px;
     box-shadow: 0px 4px 16px rgba(6, 165, 156, 0.24);
@@ -14134,6 +14217,7 @@ html {
 }
 
 .text-format {
+    font-family: "Heebo",sans-serif;
     font-weight: 700;
     font-size: 42px;
     line-height: 68px;
@@ -14160,13 +14244,14 @@ html {
 }
 
 .arrow_rigth{
-    margin-top: .7%;
+    padding-left: 13px;
     max-width:100% !important;
     margin-left: 0%!important;
     margin-right: 0%!important;
 }
 
 .title_intro{
+    font-family: "Heebo",sans-serif;
     padding-bottom: 36px;
     max-width:630px;
     text-align:left;
@@ -14208,6 +14293,7 @@ html {
 }
 
 .new_font{
+    font-family: "Heebo",sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 155%;
@@ -14256,6 +14342,7 @@ html {
 }
 
 .text_1{
+    font-family: "Heebo",sans-serif;
     font-weight: 500;
     font-size: 28px;
     line-height: 155.02%;
@@ -14265,6 +14352,7 @@ html {
 }
 
 .text_2{
+    font-family: "Heebo",sans-serif;
     padding-left: 27px;
     max-width: 550px;
     font-weight: 500;
@@ -14277,6 +14365,7 @@ html {
 }
 
 .text_3{
+    font-family: "Heebo",sans-serif;
     padding-left: 28px;
     max-width: 548px;
     font-weight: 500;
@@ -14287,6 +14376,7 @@ html {
 }
 
 .text_4{
+    font-family: "Heebo",sans-serif;
     padding-left: 26px;
     max-width: 540px;
     font-weight: 500;

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TPLforOlha.props" />
+</Project>

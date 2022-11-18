@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Panda\\Desktop\\TPLforOlha\\TPLforOlha\\TPLforOlha.csproj": {}
+    "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\TPLforOlha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Panda\\Desktop\\TPLforOlha\\TPLforOlha\\TPLforOlha.csproj": {
+    "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\TPLforOlha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Panda\\Desktop\\TPLforOlha\\TPLforOlha\\TPLforOlha.csproj",
+        "projectUniqueName": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\TPLforOlha.csproj",
         "projectName": "TPLforOlha",
-        "projectPath": "C:\\Users\\Panda\\Desktop\\TPLforOlha\\TPLforOlha\\TPLforOlha.csproj",
+        "projectPath": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\TPLforOlha.csproj",
         "packagesPath": "C:\\Users\\Panda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Panda\\Desktop\\TPLforOlha\\TPLforOlha\\obj\\",
+        "outputPath": "C:\\Users\\Panda\\Desktop\\TPLforOlha(Update)\\TPLforOlha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
